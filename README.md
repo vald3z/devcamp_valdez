@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevcampValdez::Renderer.copyright 'Catalina Valdez', '| All rights reserved'
+```
 
 ## Development
 
